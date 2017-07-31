@@ -41,7 +41,6 @@ namespace Matthew.Models
                     toAdd.addIconUrl(icon);
                     results.Add(toAdd);
                     if (numResults == _MaxSearchResults)
-                        // test change
                     {
                         break;
                     }
