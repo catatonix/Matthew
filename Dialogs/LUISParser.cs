@@ -45,26 +45,10 @@ namespace Matthew.Dialogs
         public async Task AddPlace(IDialogContext context, LuisResult result)
         {
             ShortTermMem.updateMemory(result);   // keep the bot's mind paying attention
-            string userGuess = ShortTermMem.getLastEntityValue("Places.AbsoluteLocation");  // todo add null check here ( "" check in this case) in case no results
-                                                                                            //context.SayAsync($"ShortTermMem: {string.Join(";", ShortTermMem.lastEntities.Select(x => x.Item1 + "=" + x.Item2).ToArray())}"); // sweet debug line, keep it somewhere
+            string userGuess = ShortTermMem.getLastEntityValue("Places.AbsoluteLocation");  // todo add null check here ( "" check in this case) in case no results (throw special exception from ShortTerm Mem?
             Location toAdd = new Location();
-            List<Location> searchResults = MapsApi.getSearchResults(userGuess);
-            //context.SayAsync($"Locations Address Parsing Test: {searchResults.FirstOrDefault().address}");   // todo make pretty with buttons
-            IMessageActivity validate = context.MakeMessage(); 
-            validate.AttachmentLayout = AttachmentLayoutTypes.Carousel;
-            validate.Attachments = new List<Attachment>();
-            foreach(Location searchResult in searchResults)
-            {
-                HeroCard resultCard = new HeroCard();
-                CardImage resultImage = new CardImage();
-                List<CardImage> cardImages = new List<CardImage>(1);
-                resultImage.Url = searchResult.iconURL;
-                cardImages.Add(resultImage);
-                resultCard.Title = searchResult.formatted_address;
-                resultCard.Images = cardImages;
-                validate.Attachments.Add(resultCard.ToAttachment());
-            }
-            await context.PostAsync(validate);  // todo add labelling stage
+            toAdd.setLocation(context, userGuess);
+              // todo add labelling stage
 
             // todo end each LuisIntent function with context.wait(CustomClass.CustomFunction);
         }

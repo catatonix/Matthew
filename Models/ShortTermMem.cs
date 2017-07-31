@@ -23,7 +23,7 @@ namespace Matthew.Models
         private static readonly int MEMORY_POWER = 10;      // readonly to prevent skynet, increase at your own peril
 
         public static List<Tuple<string, string>> lastEntities = new List<Tuple<string, string>>(MEMORY_POWER);   // most recent conversation topics
-        public static Location searchLocation = new Location("London");
+        //public static Location searchLocation = 
 
 
         /// <summary>

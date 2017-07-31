@@ -143,7 +143,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Forms\AddFavouriteForm.cs" />
     <Compile Include="Models\Forms\Form.cs" />
     <Compile Include="Models\Forms\RouteForm.cs" />
     <Compile Include="Models\Forms\UserForm.cs" />

@@ -35,10 +35,10 @@ namespace Matthew.Models
                 foreach (results result in locations)
                 {
                     numResults++;
-                    Location toAdd = new Location(result.name);
+                    Location toAdd = new Location();
+                    toAdd.name = result.name;
                     toAdd.addLatLng(float.Parse(result.geometry.location.lat), float.Parse(result.geometry.location.lng));
-                    string icon = getStaticImageURL(toAdd);   // todo use zoom and size field as a variable / setting
-                    toAdd.addIconUrl(icon);
+                    // TODO use zoom and scale keys in search query as variables
                     results.Add(toAdd);
                     if (numResults == _MaxSearchResults)
                     {
