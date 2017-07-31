@@ -1,0 +1,54 @@
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\obj\Debug\Matthew.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Bot Application.dll.config
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Bot Application.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Bot Application.pdb
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Autofac.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Chronic.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.Bot.Builder.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.Bot.Connector.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Newtonsoft.Json.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Net.Http.Formatting.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Web.Http.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Web.Http.WebHost.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Autofac.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.Bot.Builder.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.Bot.Connector.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Newtonsoft.Json.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Net.Http.Formatting.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Web.Http.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Web.Http.WebHost.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\obj\Debug\Bot Application.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\obj\Debug\Bot Application.pdb
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Google.Apis.Core.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Google.Apis.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Google.Apis.PlatformServices.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Net.Http.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Google.Apis.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\Google.Apis.Core.xml
+C:\Users\micha\Desktop\Matthew\Matthew\Matthew\bin\AdaptiveCards.dll
