@@ -1,3 +1,3 @@
 # Matthew
 
-See Trello Board for current stage in Agile Development
+> microsoft bot framework project integrating use of google maps api and machine learning based context recognition.
